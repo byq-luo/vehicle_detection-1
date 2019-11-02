@@ -2,7 +2,6 @@
 yolo_v3 YunYang1994 time: 0.15s
 
 # Vehicle detection
-## 1. Container detection:
 - Download [model.graphdef](https://drive.google.com/drive/folders/154z92tlbAjojCOjgfiGRYLVm9AHo8xvr) and place into 'nvserving/vehicle-detector/1'
 - Push your test video in /vehicle_detection and change it name to 1.mp4
 - Update nvidia version to nvidia-410
